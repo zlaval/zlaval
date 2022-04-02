@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zlaval&label=Profile%20views&color=0e75b6&style=flat" alt="zlaval" /> </p>
 
-- 🔭 I’m currently working on **different projects**
+- 🔭 I’m currently working on **different cloud native projects**
 
-- 🌱 I’m currently learning **Micronaut**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/zalan-toth/](https://www.linkedin.com/in/zalan-toth/)
 
