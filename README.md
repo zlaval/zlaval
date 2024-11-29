@@ -32,14 +32,14 @@ In my free time, I write spellbooks, mentor new apprentices or immerse myself in
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
-#### 🎖 &nbsp;My Badges 
-TODO
-
 #### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://linkedin.com/in/zalan-toth" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
-<a href="https://medium.com/@zlaval" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" alt="medium"></a>
+<a href="https://medium.com/@zlaval" target="_blank"><img src="https://img.shields.io/badge/Medium-%23333333.svg?&style=flat-square&logo=medium&logoColor=white" alt="medium"></a>
 <a href="https://stackoverflow.com/users/9417843" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%23D14836.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt="stackoverflow"></a>
+
+
+### 🎓 &nbsp;Certificates & Trainings
 
 ------
 
