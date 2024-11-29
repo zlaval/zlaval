@@ -15,4 +15,4 @@ jobs:
         with:
           CREDLY_SORT: POPULAR
           CREDLY_USER: zalan-toth
-          BADGE_SIZE: 50
+          BADGE_SIZE: 70
