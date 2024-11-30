@@ -9,9 +9,9 @@
 ------
 
 <p align="left">
-I'm a wizzard of computer science, reader of the great SF/F and RPG spellbooks. I spent my youth at the prestigious sorceress school called ELTE, where I earned a diploma in numeromancy. 
-Over the past decade, I’ve honed my skills further, mastering cloud-riding, Kubernetes enchanting, and studying exotic languages in far-off lands so I fluent of Go, Java, Kotlin, and Python. 
-I am drawn to many branches of dark magic, enjoying tasks like casting data curses, enchanting databases or designing new micro-spell-vices. 
+I'm a wizzard of computer science, reader of the great SF/F and RPG spellbooks. I spent my youth at the prestigious sorcery school called ELTE, where I earned a diploma in numeromancy. 
+Over the past decade, I’ve honed my skills further, mastering cloud-riding, Kubernetes enchanting, and studying exotic languages in far-off lands so I fluent of Go, Java, Kotlin and I speak a little Python. 
+I am drawn to many branches of dark magic, enjoying tasks like casting data curses, charming databases or designing new micro-spell-vices. 
 In my free time, I write spellbooks, mentor new apprentices or immerse myself in role-playing adventures with the kids.  
 </p>
 
