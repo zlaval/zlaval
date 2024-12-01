@@ -15,22 +15,6 @@ I am drawn to many branches of dark magic, enjoying tasks like casting data curs
 In my free time, I write spellbooks, mentor new apprentices or immerse myself in role-playing adventures with the kids.  
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-------
-
-<br>
-<p align="center">
-<a href="https://github.com/zlaval">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlaval&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlaval&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-<br>
-<p align="center">
-  <img src="./github-metrics.svg" />
-</p>
-
 ### 🛠 &nbsp;Tech Stack
 
 ------
@@ -63,6 +47,24 @@ In my free time, I write spellbooks, mentor new apprentices or immerse myself in
 <a href="https://linkedin.com/in/zalan-toth" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://medium.com/@zlaval" target="_blank"><img src="https://img.shields.io/badge/Medium-%23333333.svg?&style=flat-square&logo=medium&logoColor=white" alt="medium"></a>
 <a href="https://stackoverflow.com/users/9417843" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%23D14836.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt="stackoverflow"></a>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+------
+
+<br>
+<p align="center">
+<a href="https://github.com/zlaval">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlaval&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlaval&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+<br>
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
 
 
 
