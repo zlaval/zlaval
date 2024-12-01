@@ -26,6 +26,10 @@ In my free time, I write spellbooks, mentor new apprentices or immerse myself in
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlaval&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+<br>
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
