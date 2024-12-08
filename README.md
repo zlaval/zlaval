@@ -32,7 +32,6 @@ In my free time, I write spellbooks, mentor new apprentices or immerse myself in
 ------
 
 <!--START_SECTION:badges-->
-
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/70x70/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/42e74365-6079-4017-bba3-2ad5d0cca867 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/70x70/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/674228bc-49b1-4343-940d-76b34e797ee1 "AWS Certified Developer – Associate")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/70x70/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/d12af3eb-c742-4781-8862-d7620b804d74 "AWS Cloud Quest: Cloud Practitioner")
