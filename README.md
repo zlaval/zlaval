@@ -19,13 +19,12 @@ In my free time, I write spellbooks, mentor new apprentices or immerse myself in
 
 ------
 
-![Go](https://img.shields.io/badge/go-%23E34F26.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/aws-%234ea94b.svg?style=for-the-badge&logo=aws&logoColor=white)&nbsp;
-![K8S](https://img.shields.io/badge/kubernetes-%2300599C.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-%2338B2AC.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-
+![AWS](https://img.shields.io/badge/aws-%234ea94b.svg?style=for-the-badge&logo=aws&logoColor=white)&nbsp;
+![K8S](https://img.shields.io/badge/kubernetes-%2300599C.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/go-%23E34F26.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 
 ### 🎓 &nbsp;Certificates & Trainings
 
