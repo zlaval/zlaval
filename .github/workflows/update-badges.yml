@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.4.0
+        uses: pemtajo/badge-readme@main
         with:
           CREDLY_SORT: POPULAR
           CREDLY_USER: zalan-toth
-          BADGE_SIZE: 70
+          BADGE_SIZE: 0
