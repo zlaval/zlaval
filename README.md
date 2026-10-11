@@ -31,11 +31,12 @@ In my free time, I write spellbooks, mentor new apprentices or immerse myself in
 ------
 
 <!--START_SECTION:badges-->
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/70x70/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/42e74365-6079-4017-bba3-2ad5d0cca867 "AWS Certified Solutions Architect – Associate")
-[![AWS Certified Developer – Associate](https://images.credly.com/size/70x70/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/674228bc-49b1-4343-940d-76b34e797ee1 "AWS Certified Developer – Associate")
-[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/70x70/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/d12af3eb-c742-4781-8862-d7620b804d74 "AWS Cloud Quest: Cloud Practitioner")
-[![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/70x70/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/3134b05f-2eb8-415e-9c4d-2abad2944fbd "AWS Cloud Quest: Solutions Architect")
-[![AWS Cloud Quest: Serverless Developer](https://images.credly.com/size/70x70/images/9a2fd02b-52ab-448d-9d19-fd9b68efe1f6/image.png)](http://www.credly.com/badges/90678264-48d9-4cd8-b911-04badf788ccf "AWS Cloud Quest: Serverless Developer")
+[![AWS Cloud Quest: Generative AI Practitioner - Training Badge](https://images.credly.com/size/80x80/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob)](https://www.credly.com/badges/5f3021fa-476a-40fd-a0c4-296d4a1aae3a)
+[![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/674228bc-49b1-4343-940d-76b34e797ee1)
+[![AWS Cloud Quest: Solutions Architect - Training Badge](https://images.credly.com/size/80x80/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob)](https://www.credly.com/badges/3134b05f-2eb8-415e-9c4d-2abad2944fbd)
+[![AWS Cloud Quest: Serverless Developer - Training Badge](https://images.credly.com/size/80x80/images/9246c572-2b5e-4b3a-9fae-e87b3c1bf681/blob)](https://www.credly.com/badges/90678264-48d9-4cd8-b911-04badf788ccf)
+[![AWS Cloud Quest: Cloud Practitioner - Training Badge](https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/d12af3eb-c742-4781-8862-d7620b804d74)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/42e74365-6079-4017-bba3-2ad5d0cca867)
 <!--END_SECTION:badges-->
 
 ### 🤝🏻 &nbsp;Connect with Me
